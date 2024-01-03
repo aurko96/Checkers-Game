@@ -7,7 +7,7 @@ Use row-column coordinate inputs to move the pieces (like: from: 3b , to: 4c).
 For capturing enemy piece we need to give two space diagonal movement coordinates
 (like : from: 3b, to: 5d). Here enemy piece is at 4c
 
-Each player gets 30 seconds time to make his move.
+Each player gets 30 seconds time to make his move. If a player fails to give a move then a random valid move will be given automatically after 30 seconds.
 
 Use escape button to accesss in game menu.
 
